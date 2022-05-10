@@ -32,7 +32,7 @@ void setup() {
   NodeInformation.begin(115200, SERIAL_8N1, 16, 17);
   NodeInformation.setRxBufferSize(1024);
  
-  // put your setup code here, to run once:###
+  // put your setup code here, to run once:
 }
 
 void loop() {

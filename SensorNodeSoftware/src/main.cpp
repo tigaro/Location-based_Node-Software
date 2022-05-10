@@ -17,7 +17,7 @@
 #define   MESH_PORT       5555
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
-#define SCREEN_HEIGHT 64 // OLED display height, in pixels###
+#define SCREEN_HEIGHT 64 // OLED display height, in pixels
 #define OLED_RESET     -1 
 #define LOGO_HEIGHT   16
 #define LOGO_WIDTH    16
