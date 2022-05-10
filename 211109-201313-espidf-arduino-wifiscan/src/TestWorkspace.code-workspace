@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Downloads\\BLE_Mesh-main"
+		},
+		{
+			"name": "211109-201313-espidf-arduino-wifiscan",
+			"path": ".."
+		},
+		{
+			"name": "Test Projekt",
+			"path": "..\\..\\..\\..\\..\\..\\Documents\\Projekt\\Test Projekt"
+		},
+		{
+			"name": "WebserverAsync",
+			"path": "..\\..\\WebserverAsync"
+		},
+		{
+			"name": "SerialTestProject",
+			"path": "..\\..\\SerialTestProject"
+		},
+		{
+			"name": "WebserverCorrect",
+			"path": "..\\..\\WebserverCorrect"
+		},
+		{
+			"name": "BluetoothRSSICheck",
+			"path": "..\\..\\BluetoothRSSICheck"
+		},
+		{
+			"name": "BLE_RSSI_CHECK",
+			"path": "..\\..\\BLE_RSSI_CHECK"
+		},
+		{
+			"name": "SensorNodeSoftware",
+			"path": "..\\..\\SensorNodeSoftware"
+		},
+		{
+			"name": "WebserverNodeSoftware",
+			"path": "..\\..\\WebserverNodeSoftware"
+		},
+		{
+			"name": "RepeaterNodeSoftware",
+			"path": "..\\..\\RepeaterNodeSoftware"
+		},
+		{
+			"name": "WebserverSensorNodeSoftware",
+			"path": "..\\..\\WebserverSensorNodeSoftware"
+		},
+		{
+			"name": "STABLE_WEBSERVER_NODE",
+			"path": "..\\..\\STABLE_WEBSERVER_NODE"
+		},
+		{
+			"name": "Bluetooth_Standalone",
+			"path": "..\\..\\Bluetooth_Standalone"
+		}
+	],
+	"settings": {}
+}
