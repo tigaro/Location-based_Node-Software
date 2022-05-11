@@ -53,6 +53,16 @@ boolean ipsend = false;
 
 const char index_html[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML><html>
+<p hidden>/*********
+  Rui Santos
+  Complete project details at https://RandomNerdTutorials.com/esp8266-nodemcu-bme680-sensor-arduino/
+ 
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files.
+ 
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+*********/</p>
 <head>
   <title>An Interconnected Air Quality Sensor Network with Webserver capabilities for Indoor Applications </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -167,6 +177,16 @@ if (!!window.EventSource) {
 
 const char index_html_processor[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML><html>
+<p hidden>/*********
+  Rui Santos
+  Complete project details at https://RandomNerdTutorials.com/esp8266-nodemcu-bme680-sensor-arduino/
+ 
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files.
+ 
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+*********/</p>
 <head>
   <title>An Interconnected Air Quality Sensor Network with Webserver capabilities for Indoor Applications </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
